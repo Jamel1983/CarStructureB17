@@ -5,6 +5,11 @@ public class main {
         audi.Doors="2";
         audi.wheels= "20 inch";
 
+        Lights lights = new Lights();
+        lights.color="white";
+        lights.opacity="50";
+        lights.size="40";
+
     }
 }
 
